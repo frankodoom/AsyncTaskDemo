@@ -1,0 +1,10 @@
+C:\Users\DevAdmin\source\repos\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.csprojResolveAssemblyReference.cache
+C:\Users\DevAdmin\source\repos\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.Form1.resources
+C:\Users\DevAdmin\source\repos\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.Properties.Resources.resources
+C:\Users\DevAdmin\source\repos\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.csproj.GenerateResource.cache
+C:\Users\DevAdmin\source\repos\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.csproj.CoreCompileInputs.cache
+C:\Users\DevAdmin\source\repos\AsyncDemo\AsyncDemo\bin\Debug\AsyncDemo.exe.config
+C:\Users\DevAdmin\source\repos\AsyncDemo\AsyncDemo\bin\Debug\AsyncDemo.exe
+C:\Users\DevAdmin\source\repos\AsyncDemo\AsyncDemo\bin\Debug\AsyncDemo.pdb
+C:\Users\DevAdmin\source\repos\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.exe
+C:\Users\DevAdmin\source\repos\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.pdb
